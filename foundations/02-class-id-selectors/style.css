@@ -1,0 +1,20 @@
+.grotesk {
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+    background-color: rgb(238, 148, 148);
+}
+
+.headline {
+    font-size: 24px;
+
+}
+
+#number2 {
+    color: rgb(0, 0, 250);
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: #1eff00;
+    font-weight: 700;
+    font-size: 24px;
+}
